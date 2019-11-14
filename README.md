@@ -64,3 +64,9 @@ At the next meeting you need to have a demo that has these features:
 * Add a tag to an image
 
 * Filter images based on tags
+
+---------------------------------------------------------------------
+
+If you have any questions, comments, concerns, please reach out and talk to us. We are more than happy to discuss.
+
+Good luck!
