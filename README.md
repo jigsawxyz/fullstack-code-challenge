@@ -1,4 +1,4 @@
-# Full Stack Challenge - Pictsy CLI
+# Full Stack Challenge - Pictsy
 
 Your task today is to write the code for Pictsy, a sexy new image sharing startup. Since we're starting from scratch, we'll need to build a REST API as well as our web app.
 
